@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Prototype.iml" filepath="$PROJECT_DIR$/.idea/modules/Prototype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prototype.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prototype.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prototype.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prototype.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prototype.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prototype.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prototype.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prototype.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Prompt-Pal.iml" filepath="$PROJECT_DIR$/.idea/modules/Prompt-Pal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Prompt-Pal.app.unitTest.iml" />
     </modules>
   </component>
 </project>

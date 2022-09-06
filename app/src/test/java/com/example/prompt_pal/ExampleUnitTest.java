@@ -1,4 +1,4 @@
-package com.example.prototype;
+package com.example.prompt_pal;
 
 import org.junit.Test;
 

@@ -1,2 +1,2 @@
-rootProject.name = "Prototype"
+rootProject.name = "Prompt-Pal"
 include ':app'
