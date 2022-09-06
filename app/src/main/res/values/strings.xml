@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="button">Generate Task</string>
+    <string name="outputText"> </string>
+</resources>
